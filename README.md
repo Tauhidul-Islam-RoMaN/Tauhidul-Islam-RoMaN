@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/px69wXX/Github-Banner.png" />
+<img src="https://i.ibb.co/N6PCPPC/Github-Banner-edited.png" />
 <h1 align="center">Hi 👋, I'm Tauhidul Islam RoMaN</h1>
 <h3 align="center">I am a passionate web developer with a focus on the MERN (MongoDB, Express.js, React, Node.js) stack. My journey in the world of coding began with a fascination for creating beautiful and functional web applications.</h3>
 
