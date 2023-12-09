@@ -7,7 +7,7 @@
 <br />
 
 <p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Tauhidul-Islam-RoMaN&theme=dark&mode=weekly&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=Tauhidul-Islam-RoMaN&theme=dark&mode=weekly&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
 </p>
 <p align="center">
 <img width="70%" src="https://api.githubtrends.io/user/svg/Tauhidul-Islam-RoMaN/repos?time_range=one_year&group=other&loc_metric=changed&theme=dark" alt="tauhidul-islam-roman" />
@@ -60,4 +60,4 @@
 ### 🔭 I’m a web Developer. 
 ### 👯 I’m exploring MERN Stack developing
 ### 📫 How to reach me: tauhidroman@gmail.com
-### ⚡ Fun fact: I can speak Bangla and English. I am a Chemical Engineer & also a Cyclist.
+### ⚡ Fun fact: I can speak Bangla, English. I am a Chemical Engineer & also a Cyclist.
