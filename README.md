@@ -70,8 +70,8 @@
 
 <p>
 
-### ShipSwiftly (A Parcel Delivery Website)
-<a href="https://assignment-12-ac700.web.app/" target="blank"> ShipSwiftly Live Link</a>
+### :parcel: ShipSwiftly (A Parcel Delivery Website)
+### Live Link : <a href="https://assignment-12-ac700.web.app/" target="blank"> ShipSwiftly Live Link</a>
 <p> 
 
 ### Admin email: admin@admin.com
