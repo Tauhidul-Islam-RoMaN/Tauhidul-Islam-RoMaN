@@ -66,27 +66,29 @@
 
 <br>
 
-##  Latest Project
+## Latest Project
 
 <p>
-<p> ShipSwiftly (A Parcel Delivery Website) </p>
+
+### ShipSwiftly (A Parcel Delivery Website)
 <a href="https://assignment-12-ac700.web.app/" target="blank"> ShipSwiftly Live Link</a>
 <p> 
- Admin email: admin@admin.com
- Admin password: 1234T!
- Delivery Men’s email: deliveryman@example.com
- Delivery Men’s password: 1234T! 
-This a parcel delivery website. The key features of this website is given below
-1. You can book a parcel
-2. You can see all your booked parcel in one place.
-3. You can update your profile
-4. you can sort all your parcel by their status
-5. If you want admin can make you a delivery man
-6. Delivery man can see all the parcel list they are assigned 
-7. Customer can provide review and rating to the delivery man.
-8. Delivery man can see all the review and ratings of their own
-9. Admin can see all the data
-10. Admin can make any user deliveryman or admin
+
+### Admin email: admin@admin.com
+### Admin password: 1234T!
+### Delivery Men’s email: deliveryman@example.com
+### Delivery Men’s password: 1234T! 
+This a parcel delivery website. The key features of this website is given below <br/>
+1. You can book a parcel <br/>
+2. You can see all your booked parcel in one place. <br/>
+3. You can update your profile <br/>
+4. you can sort all your parcel by their status <br/>
+5. If you want admin can make you a delivery man <br/>
+6. Delivery man can see all the parcel list they are assigned <br/>
+7. Customer can provide review and rating to the delivery man <br/>
+8. Delivery man can see all the review and ratings of their own <br/>
+9. Admin can see all the data <br/>
+10. Admin can make any user deliveryman or admin <br/>
 
 </p>
 </p>
