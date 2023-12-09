@@ -61,3 +61,35 @@
 ### 👯 I’m exploring MERN Stack developing
 ### 📫 How to reach me: tauhidroman@gmail.com
 ### ⚡ Fun fact: I can speak Bangla, English. I am a Chemical Engineer & also a Cyclist.
+
+
+
+<br>
+
+##  Latest Project
+
+<p>
+<p> ShipSwiftly (A Parcel Delivery Website) </p>
+<a href="https://assignment-12-ac700.web.app/" target="blank"> ShipSwiftly Live Link</a>
+<p> 
+ Admin email: admin@admin.com
+ Admin password: 1234T!
+ Delivery Men’s email: deliveryman@example.com
+ Delivery Men’s password: 1234T! 
+This a parcel delivery website. The key features of this website is given below
+1. You can book a parcel
+2. You can see all your booked parcel in one place.
+3. You can update your profile
+4. you can sort all your parcel by their status
+5. If you want admin can make you a delivery man
+6. Delivery man can see all the parcel list they are assigned 
+7. Customer can provide review and rating to the delivery man.
+8. Delivery man can see all the review and ratings of their own
+9. Admin can see all the data
+10. Admin can make any user deliveryman or admin
+
+</p>
+</p>
+
+
+</br>
