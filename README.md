@@ -66,11 +66,13 @@
 
 <br>
 
-## Latest Project
+## ⬆️ Latest Project
+
+<br>
 
 <p>
 
-### :parcel: ShipSwiftly (A Parcel Delivery Website)
+### 📦: ShipSwiftly (A Parcel Delivery Website)
 ### Live Link : <a href="https://assignment-12-ac700.web.app/" target="blank"> ShipSwiftly Live Link</a>
 <p> 
 
@@ -92,6 +94,51 @@ This a parcel delivery website. The key features of this website is given below 
 
 </p>
 </p>
+
+
+</br>
+<br>
+
+<p>
+
+###  🍔: FoodieFleet (A Restaurant Management Website)
+### Live Link : <a href="https://assignment-11-6b401.web.app/" target="blank"> FoodieFleet Live Link</a>
+<p> 
+
+This is a restaurant management website called "FoodieFleet" <br/>
+
+1. You can add your food recipe/menu <br/>
+2. You can Purchase Food from this website <br/>
+3. No one can delete your added food recipe/menu <br/>
+4. You can update your food recipe/menu any time <br/>
+5. You can add all your order in one place <br/>
+6. Your order/Cart is private. Only you can access this <br/>
+7. There is blog section in this website <br/>
+</p>
+</p>
+
+
+</br>
+
+<br>
+
+<p>
+
+###  🛒: ElectroTech Hub (A Electronics Shopping Website)
+### Live Link : <a href="https://assignment-10firebase.web.app/" target="blank"> ElectroTech Hub Live Link</a>
+<p> 
+
+This is a Electronic & Technology based website
+1. You will find different electronic products from different brand <br/>
+2. You will have the access to insert product to the server <br/>
+3. You will also have the access to update the products <br/>
+4. you can add your favorite product to your cart <br/>
+5. you can also delete product from your cart <br/>
+
+</p>
+</p>
+
+</br>
 
 
 </br>
